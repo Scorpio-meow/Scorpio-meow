@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://scorpio-meow.github.io/Threadkeep/"><img src="assets/shots/Threadkeep.webp" alt="Threadkeep 控制面板"></a>
+      <a href="https://scorpio-meow.github.io/Threadkeep/"><img src="assets/shots/Threadkeep.png" alt="Threadkeep 控制面板"></a>
       <br><b>Threadkeep</b>：Manifest V3 瀏覽器擴充功能，一鍵保存 Threads 貼文的官方嵌入碼。
       <br>資料留在瀏覽器；瀑布流儀表板、標籤雲、即時預覽、.js 匯出。
       <br><a href="https://github.com/Scorpio-meow/Threadkeep">原始碼</a> · <a href="https://scorpio-meow.github.io/Threadkeep/">網站</a>
