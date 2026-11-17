@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 56" width="720" height="56" role="img" aria-label="我在解決的問題">
+  <title>我在解決的問題</title>
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff4d5e"/><stop offset="1" stop-color="#ffb86b"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 30px 'Segoe UI', 'Noto Sans TC', sans-serif; fill: #2a1530; }
+      .rule { stroke: #d9c9d8; }
+      @media (prefers-color-scheme: dark) { .t { fill: #fff4ec; } .rule { stroke: #4a3a58; } }
+    </style>
+  </defs>
+  <rect x="0" y="8" width="8" height="38" rx="4" fill="url(#bar)"/>
+  <text x="24" y="38" class="t">我在解決的問題</text>
+  <line x1="0" y1="54" x2="720" y2="54" class="rule" stroke-width="1"/>
+</svg>
