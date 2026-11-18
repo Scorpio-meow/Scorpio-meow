@@ -77,7 +77,7 @@
 <!--RECENT:START-->
 | 更新日 | 專案 | 說明 |
 | --- | --- | --- |
-| 2026-11-16 | [CallMiao](https://github.com/Scorpio-meow/CallMiao) | Embeddable queue ticketing and calling system for any website: kiosk, agent dashboard... |
+| 2026-11-18 | [CallMiao](https://github.com/Scorpio-meow/CallMiao) | Embeddable queue ticketing and calling system for any website: kiosk, agent dashboard... |
 | 2026-11-15 | [AskMiao](https://github.com/Scorpio-meow/AskMiao) | Self-hosted RAG chatbot that researches company documents and cites every claim. Hybrid... |
 | 2026-11-15 | [ListenMiao](https://github.com/Scorpio-meow/ListenMiao) | ListenMiao: local web app for MediaTek Research's Breeze ASR 25/26. Turn Taiwanese... |
 | 2026-11-14 | [DrillMiao](https://github.com/Scorpio-meow/DrillMiao) | Zero-dependency, client-side mock exam and practice app with 11 built-in question banks... |
