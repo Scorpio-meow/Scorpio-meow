@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 124" width="800" height="124" role="img" aria-label="公開儲存庫的語言分布">
+  <title>公開儲存庫的語言分布</title>
+  <defs>
+    <clipPath id="round"><rect x="40" y="54" width="720" height="14" rx="7"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="798" height="122" rx="16" fill="#1b1428" stroke="#3a2848" stroke-width="1"/>
+  <text x="40" y="38" font-family="'Segoe UI', 'Noto Sans TC', sans-serif" font-size="14" font-weight="600" letter-spacing="1" fill="#ffb86b">18 個公開儲存庫 · 依主要語言</text>
+  <g clip-path="url(#round)"><rect x="40.0" y="54" width="405.0" height="14" fill="#ff4d5e"/><rect x="445.0" y="54" width="225.0" height="14" fill="#ffb86b"/><rect x="670.0" y="54" width="45.0" height="14" fill="#b57bff"/><rect x="715.0" y="54" width="45.0" height="14" fill="#5ad1c1"/></g>
+  <circle cx="46" cy="95" r="6" fill="#ff4d5e"/><text x="60" y="100" font-family="'Segoe UI', 'Noto Sans TC', sans-serif" font-size="14" fill="#fff4ec">Python 56%</text><circle cx="190" cy="95" r="6" fill="#ffb86b"/><text x="204" y="100" font-family="'Segoe UI', 'Noto Sans TC', sans-serif" font-size="14" fill="#fff4ec">JavaScript 31%</text><circle cx="334" cy="95" r="6" fill="#b57bff"/><text x="348" y="100" font-family="'Segoe UI', 'Noto Sans TC', sans-serif" font-size="14" fill="#fff4ec">COBOL 6%</text><circle cx="478" cy="95" r="6" fill="#5ad1c1"/><text x="492" y="100" font-family="'Segoe UI', 'Noto Sans TC', sans-serif" font-size="14" fill="#fff4ec">HTML 6%</text>
+</svg>

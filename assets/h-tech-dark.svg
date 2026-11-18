@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 48" width="720" height="48" role="img" aria-label="常用技術">
+  <title>常用技術</title>
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff4d5e"/><stop offset="1" stop-color="#ffb86b"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="5" width="8" height="38" rx="4" fill="url(#bar)"/>
+  <text x="24" y="35" font-family="'Segoe UI', 'Noto Sans TC', sans-serif" font-size="30" font-weight="700" fill="#fff4ec">常用技術</text>
+</svg>
