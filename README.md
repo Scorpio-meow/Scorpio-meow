@@ -89,7 +89,7 @@
 </picture>
 
 <!--RECENT:START-->
-近期更新：[ListenMiao](https://github.com/Scorpio-meow/ListenMiao)（11-26） · [AskMiao](https://github.com/Scorpio-meow/AskMiao)（11-20） · [CallMiao](https://github.com/Scorpio-meow/CallMiao)（11-18） · [DrillMiao](https://github.com/Scorpio-meow/DrillMiao)（11-14） · [Threadfolio-Example](https://github.com/Scorpio-meow/Threadfolio-Example)（11-14）
+近期更新：[Threads-skill](https://github.com/Scorpio-meow/Threads-skill)（11-27） · [Threads-API](https://github.com/Scorpio-meow/Threads-API)（11-27） · [ListenMiao](https://github.com/Scorpio-meow/ListenMiao)（11-26） · [AskMiao](https://github.com/Scorpio-meow/AskMiao)（11-20） · [CallMiao](https://github.com/Scorpio-meow/CallMiao)（11-18）
 <!--RECENT:END-->
 
 <h2>
